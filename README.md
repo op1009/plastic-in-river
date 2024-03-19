@@ -18,7 +18,7 @@ This repository contains the code and resources to train a custom YOLOv8 (You On
     |-------------|--------------|
     | ![input_image0.jpg](./images/input_image0.jpg) | ![output_image0.jpg](./images/output_image0.jpg) |
     | ![input_image1.jpg](./images/input_image1.jpg) | ![output_image1.jpg](./images/output_image1.jpg) |
-    | ![input_image2.jpg](./images/input_image2.jpg) | ![output_image2.jpg](./images/output_image2.jpgg) |
+    | ![input_image2.jpg](./images/input_image2.jpg) | ![output_image2.jpg](./images/output_image2.jpg) |
 
 ## Acknowledgements
 - Dataset is provided from Kili's Community Challenge - Plastic in River dataset through HuggingFace🤗.
